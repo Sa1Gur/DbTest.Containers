@@ -8,6 +8,10 @@
         <Title>DbTest.Containers</Title>
         <Authors>Guriy Samarin</Authors>
         <Description>library for creating test containers with Database</Description>
+        <Copyright>Copyright (c) 2021 Guriy Samarin</Copyright>
+        <PackageProjectUrl>https://github.com/Sa1Gur/DbTest.Containers</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/Sa1Gur/DbTest.Containers/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/Sa1Gur/DbTest.Containers</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
