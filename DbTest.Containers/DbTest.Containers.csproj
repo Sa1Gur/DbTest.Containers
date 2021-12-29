@@ -7,9 +7,6 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Title>DbTest.Containers</Title>
         <Description>library for creating test containers with Database</Description>
-        <PackageProjectUrl>https://github.com/Sa1Gur/DbTest.Containers</PackageProjectUrl>
-        <PackageLicenseUrl>https://github.com/Sa1Gur/DbTest.Containers/blob/master/LICENSE</PackageLicenseUrl>
-        <RepositoryUrl>https://github.com/Sa1Gur/DbTest.Containers</RepositoryUrl>
         <PackageVersion>1.0.1</PackageVersion>
     </PropertyGroup>
 
