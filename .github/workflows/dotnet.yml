@@ -27,7 +27,7 @@ jobs:
       uses: brandedoutcast/publish-nuget@v2.5.5
       with:      
         PROJECT_FILE_PATH: DbTest.Containers/DbTest.Containers.csproj
-        VERSION_REGEX: ‘^\s*<PackageVersion>(.*)<\/PackageVersion>\s*$’
-        TAG_FORMAT: ‘*’
-        NUGET_KEY: oy2aj3zex4lfs26x6gaaf6tkmdsmffiuphvv42ow7fofjq
+        VERSION_REGEX: '^\s*<PackageVersion>(.*)<\/PackageVersion>\s*$'
+        TAG_FORMAT: '*'
+        NUGET_KEY: ${{secrets.NUGET_API_KEY}}
       
