@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg63"
+   width="705.28003"
+   height="343.67999"
+   viewBox="0 0 705.28003 343.67999"
+   sodipodi:docname="CompareWaysToTestVer3.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:export-filename="CompareWaysToTestVer3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs67" />
+  <sodipodi:namedview
+     id="namedview65"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.0525585"
+     inkscape:cx="418.97907"
+     inkscape:cy="268.39362"
+     inkscape:window-width="1500"
+     inkscape:window-height="930"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g69" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g69">
+    <rect
+       style="fill:#70ad47;fill-opacity:1;stroke-width:0.978667"
+       id="rect1688"
+       width="180"
+       height="115"
+       x="100"
+       y="10" />
+    <rect
+       style="fill:#70ad47;fill-opacity:1;stroke-width:0.978667"
+       id="rect1688-6"
+       width="180"
+       height="115"
+       x="300"
+       y="10" />
+    <rect
+       style="fill:#70ad47;fill-opacity:1;stroke-width:0.978667"
+       id="rect1688-6-5"
+       width="180"
+       height="115"
+       x="500"
+       y="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:85.3333px;fill:#4672c4;fill-opacity:1"
+       x="21.851519"
+       y="190.96324"
+       id="text2118"><tspan
+         sodipodi:role="line"
+         id="tspan2116"
+         x="21.851519"
+         y="190.96324">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:85.3333px;fill:#4672c4;fill-opacity:1"
+       x="37.188488"
+       y="299.52808"
+       id="text2118-0"><tspan
+         sodipodi:role="line"
+         id="tspan2116-4"
+         x="37.188488"
+         y="299.52808">-</tspan></text>
+    <path
+       style="fill:#70ad47;fill-opacity:1;stroke:#4672c4;stroke-opacity:1;stroke-width:3;stroke-dasharray:none"
+       d="M 13.300923,220.41529 691.64799,217.5651"
+       id="path2260" />
+    <path
+       style="fill:#70ad47;fill-opacity:1;stroke:#4672c4;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 11.4822,303.74052 678.34707,-2.85019"
+       id="path2260-5" />
+    <path
+       style="fill:#70ad47;fill-opacity:1;stroke:#4672c4;stroke-width:3.06111;stroke-dasharray:18.3667, 18.3667;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 289.87026,16.150074 0.94948,331.575296"
+       id="path2904" />
+    <path
+       style="fill:#70ad47;fill-opacity:1;stroke:#4672c4;stroke-width:3.03982;stroke-dasharray:18.2389, 18.2389;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 490.33432,16.150229 1.89925,323.024441"
+       id="path2906" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:18, 18;stroke-dashoffset:0;stroke-opacity:1"
+       x="190.39525"
+       y="57.954025"
+       id="text2962"><tspan
+         sodipodi:role="line"
+         id="tspan2960"
+         x="190.39525"
+         y="57.954025">как в</tspan><tspan
+         sodipodi:role="line"
+         x="190.39525"
+         y="81.287399"
+         id="tspan3066">production</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:18, 18;stroke-dashoffset:0;stroke-opacity:1"
+       x="386.72281"
+       y="60.653099"
+       id="text3172"><tspan
+         sodipodi:role="line"
+         id="tspan3170"
+         x="386.72281"
+         y="60.653099">SQLite</tspan><tspan
+         sodipodi:role="line"
+         x="386.72281"
+         y="83.986427"
+         id="tspan3174">in-memory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:18, 18;stroke-dashoffset:0;stroke-opacity:1"
+       x="589.48657"
+       y="59.058357"
+       id="text3172-7"><tspan
+         sodipodi:role="line"
+         id="tspan3170-3"
+         x="589.48657"
+         y="59.058357">Заглушка вместо</tspan><tspan
+         sodipodi:role="line"
+         x="589.48657"
+         y="82.391731"
+         id="tspan3174-9">базы данных</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;text-align:start;text-anchor:start;fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="113.12764"
+       y="153.91069"
+       id="text3936"><tspan
+         sodipodi:role="line"
+         id="tspan3934"
+         x="113.12764"
+         y="153.91069">· все как в production</tspan><tspan
+         sodipodi:role="line"
+         x="113.12764"
+         y="170.57732"
+         id="tspan4211"></tspan><tspan
+         sodipodi:role="line"
+         x="113.12764"
+         y="187.24394"
+         id="tspan5120">· полная поддержка SQL</tspan><tspan
+         sodipodi:role="line"
+         x="113.12764"
+         y="203.91057"
+         id="tspan4373"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;text-align:start;text-anchor:start;fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="310.29169"
+       y="154.60487"
+       id="text3936-1"><tspan
+         sodipodi:role="line"
+         x="310.29169"
+         y="154.60487"
+         id="tspan4211-8">· быстрый запуск</tspan><tspan
+         sodipodi:role="line"
+         x="310.29169"
+         y="171.2715"
+         id="tspan5128">· актуальная схема</tspan><tspan
+         sodipodi:role="line"
+         x="310.29169"
+         y="187.93813"
+         id="tspan5130">· стартует пустой </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;text-align:start;text-anchor:start;fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="512.29169"
+       y="154.60487"
+       id="text3936-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan3934-1-8"
+         x="512.29169"
+         y="154.60487">· полный контроль за</tspan><tspan
+         sodipodi:role="line"
+         x="512.29169"
+         y="171.2715"
+         id="tspan4211-8-8">  доступом к данным</tspan><tspan
+         sodipodi:role="line"
+         x="512.29169"
+         y="187.93813"
+         id="tspan5136">· быстрый запуск </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;text-align:start;text-anchor:start;fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="114.29167"
+       y="244.60487"
+       id="text3936-1-0-3"><tspan
+         sodipodi:role="line"
+         x="114.29167"
+         y="244.60487"
+         id="tspan4211-8-8-7">· нужны уникальные</tspan><tspan
+         sodipodi:role="line"
+         x="114.29167"
+         y="261.27148"
+         id="tspan5144">экземпляры db на тест</tspan><tspan
+         sodipodi:role="line"
+         x="114.29167"
+         y="277.93811"
+         id="tspan5146">· медленно</tspan><tspan
+         sodipodi:role="line"
+         x="114.29167"
+         y="294.60474"
+         id="tspan5148">  создается/очищается </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;text-align:start;text-anchor:start;fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="308.29169"
+       y="244.60487"
+       id="text3936-1-0-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan3934-1-8-6-4"
+         x="308.29169"
+         y="244.60487">· частичная поддержка</tspan><tspan
+         sodipodi:role="line"
+         x="308.29169"
+         y="261.27148"
+         id="tspan5138">  SQLвсе как в production</tspan><tspan
+         sodipodi:role="line"
+         x="308.29169"
+         y="277.93811"
+         id="tspan4211-8-8-7-2">· нюансы относительно</tspan><tspan
+         sodipodi:role="line"
+         x="308.29169"
+         y="294.60474"
+         id="tspan5140">  production </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;text-align:start;text-anchor:start;fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="514.29169"
+       y="244.60487"
+       id="text3936-1-0-3-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan3934-1-8-6-4-8"
+         x="514.29169"
+         y="244.60487">· не все тестируется</tspan><tspan
+         sodipodi:role="line"
+         x="514.29169"
+         y="261.27148"
+         id="tspan4211-8-8-7-2-6">· много кода </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;text-align:start;text-anchor:start;fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="367.67551"
+       y="159.61108"
+       id="text5124"><tspan
+         sodipodi:role="line"
+         id="tspan5122"
+         x="367.67551"
+         y="159.61108"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;text-align:start;text-anchor:start;fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="11.651779"
+       y="325.97247"
+       id="text5174"><tspan
+         sodipodi:role="line"
+         id="tspan5172"
+         x="11.651779"
+         y="325.97247">когда нужно</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;text-align:start;text-anchor:start;fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="119.82993"
+       y="325.36169"
+       id="text5174-7"><tspan
+         sodipodi:role="line"
+         id="tspan5172-5"
+         x="119.82993"
+         y="325.36169">используется SQL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;text-align:start;text-anchor:start;fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="301.8299"
+       y="325.36169"
+       id="text5174-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan5172-5-0"
+         x="301.8299"
+         y="325.36169">используется только LINQ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;text-align:start;text-anchor:start;fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="519.82996"
+       y="317.36169"
+       id="text5174-7-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan5172-5-0-0"
+         x="519.82996"
+         y="317.36169">тестируется сложная </tspan><tspan
+         sodipodi:role="line"
+         x="519.82996"
+         y="334.02832"
+         id="tspan5257">бизнеслогика</tspan></text>
+  </g>
+</svg>
