@@ -7,7 +7,7 @@
    width="705.28003"
    height="343.67999"
    viewBox="0 0 705.28003 343.67999"
-   sodipodi:docname="CompareWaysToTestVer3.svg"
+   sodipodi:docname="CompareWaysToTestVer.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    inkscape:export-filename="CompareWaysToTestVer3.png"
    inkscape:export-xdpi="300"
@@ -233,7 +233,7 @@
          sodipodi:role="line"
          x="308.29169"
          y="261.27148"
-         id="tspan5138">  SQLвсе как в production</tspan><tspan
+         id="tspan5138">  SQL</tspan><tspan
          sodipodi:role="line"
          x="308.29169"
          y="277.93811"
